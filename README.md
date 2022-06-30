@@ -16,7 +16,7 @@
 |9  | [What are props in React?](#what-are-props-in-react) |
 |10 | [What is the difference between state and props?](#what-is-the-difference-between-state-and-props) |
 |11 | [Why should we not update the state directly?](#why-should-we-not-update-the-state-directly) |
-|12 | [What is the purpose of callback function as an argument of setState()?]
+|12 | [What is the purpose of callback function as an argument of setState()?](#what-is-the-purpose-of-callback-function-as-an-argument-of-setstate)
 
 1. ### What is React?
 
